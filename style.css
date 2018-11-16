@@ -1,0 +1,22 @@
+p {
+    font-family: Arial;
+}
+
+h1 {
+    color: maroon;
+}
+
+div {
+    padding: 2px;
+}
+
+.title {
+    color: teal;
+}
+
+a:link {
+    color: blue;
+}
+
+.head {
+    margin: 6px;
